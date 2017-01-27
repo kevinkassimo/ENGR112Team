@@ -103,3 +103,9 @@ Ans: Living with other people. Because I can have someone to communicate with. P
 Q8: What is the MOST important characteristic of housing location?
 
 Ans: Close to the campus.
+
+
+
+## Analysis
+
+The two interviewees I got this week responded with quite opposite answers. Both students would stick to their current housing plan (on-campus or off-campus). At the same time, they have very different concerns on housing. For the first student, she is more price sensitive and cares more about the overall living experiences. However, for the second one, all he thinks about is convenience. In this case, the first student very well fits in our target group, while the second one doesn't. Also, the first student accept much longer distance than the second student does, which is ideal for our product as there are much more options we can offer over a long distance. As for the roommate part, our assumption is that international students would prefer to live with people from the same country, yet this assumption is backed by the first student but disputed by the second one. At last, we assumed international students, after moving out, might need help on neighborhood directions and transportations. Just as the first student mentions, she wants supermarkets and restaurants, as well bus stops around, while the second student does not care so much about these. After the two interviews, I think our target group might be distinguishing enough and those who fall in our target group would need all services we are going to offer.
