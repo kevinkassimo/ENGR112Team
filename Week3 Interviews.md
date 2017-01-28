@@ -190,7 +190,7 @@ No. you app may reduce the numberof customers for a specific period. If I am usi
 
 
 
-##Below are the initial analysis by Kevin Qian
+##Analysis
 
 The interviews reveal the following points:
 
