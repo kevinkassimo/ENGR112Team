@@ -192,9 +192,11 @@ No. you app may reduce the numberof customers for a specific period. If I am usi
 
 ##Below are the initial analysis by Kevin Qian
 
-My first two interview reveals the following points:
+The interviews reveal the following points:
 
 1. People living on campus may still have chances living off campus for various reasons (if convenience are satisfied, and based on information I know, there are housing locations even closer to campus compare to that of dorms)
 2. One of the obstacles (Customer Pain) has been lack of referable resources of off-campus housing information (they do not know there are such housing resources mentioned in the first point)
-3. International students from China generally prefer living with students from the same country and usually prefer to have roommate with similar interest, background, lifestyle, etc. (thus roommate search becomes necessary)
-4. Convenience and Safety are two important aspects that would impact choice of house rental
+3. Many people choose off-campus housing over on-campus huosing because they prefer to cook themselves, as the food in campus might not be as good as the food from their own countries. In this case, our app could help people find more food of their culture or even do a cuisine match to let people share the food they make.
+4. International students from China generally prefer living with students from the same country and usually prefer to have roommate with similar interest, background, lifestyle, etc. (thus roommate search becomes necessary)
+5. Convenience and Safety are two important aspects that would impact choice of house rental
+6. There're also students who would prefer living on campus with people from other countries, in which case they don't mind much about food and don't need to worry about commute. Those people are off our target group.
